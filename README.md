@@ -4,6 +4,8 @@ This is the source code for my “MuscleWatch device” which aims to prevent ha
 
 Each of the 3 folders contains the machine learning model for each NMT warm up exercise, code, and EMG data used to train it. The arduino code is run on the leg sleeve of the physical device and is used to filter and relay the EMG data to either of the 3 machine learning models (found in folders: APB, NHC, and SQJ). If you find any errors, feel free to open up an “issue” or send a “pull request”! 
 
+I would like to express my gratitude to the creators and contributors of the libraries and code editor notebooks used in this project. Please scroll to the bottom to see the copyright licenses attached below.
+
 Deployment Date: February 14, 2025
 
 # Credits:
