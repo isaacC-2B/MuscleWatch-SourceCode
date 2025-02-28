@@ -32,6 +32,8 @@
 
  * Code partially generated with the help of CS50.ai (Harvard University, 2025)
  * https://www.cs50.ai/chat
+ 
+ * I would like to express my gratitude to the creators and contributors of the libraries and code editor notebooks used in this project. Please read the README.md file in my repository to see the copyright licenses attached.
 */
 
 /*
